@@ -6,11 +6,15 @@ package test.test1;
 
 /**
  *
- * @author pate1823
+ * @author Megha Patel
  */
 public class Test1 {
 
     public String greet() {
         return "hello";
+    }
+
+    public double addNumbers(double a,double b){
+        return a+b;        
     }
 }
