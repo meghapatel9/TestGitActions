@@ -11,7 +11,7 @@ package test.test1;
 public class Test1 {
 
     public String greet() {
-        return "hello";
+        return "hello1";
     }
 
     public double addNumbers(double a,double b){
